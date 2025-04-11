@@ -1,4 +1,4 @@
-## About the Author
+
 As a data-driven researcher with over 5 years of experience, I specialize in leveraging advanced technologies to conduct comprehensive analyses, build predictive models, and support evidence-based research. My work spans multiple fields, from health data science to epidemiology and public health, where I use programming languages (Python, R, JavaScript) and cloud platforms like AWS and Google Colab to drive impactful research.
 
 ### Core Competencies:
