@@ -1,5 +1,4 @@
 # [Smart Solutions]
-#(https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
 
