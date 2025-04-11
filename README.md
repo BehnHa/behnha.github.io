@@ -1,4 +1,5 @@
-# [Smart Solutions](https://github.com/kitian616/jekyll-TeXt-theme)
+# [Smart Solutions]
+#(https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
 
@@ -27,9 +28,9 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 - Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
 - RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+## Categories
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+There are currently 6 post categories here:
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
