@@ -1,11 +1,38 @@
+---
+layout: article
+titles:
+  # @start locale config
+  en      : &EN       About
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  关于
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  關於
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO       소개
+  ko-KR   : *KO
+  fr      : &FR       À propos
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
+key: page-about
+---
 
-![Smart Solutions](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
+![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-**[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
+```javascript
+(() => console.log('Hello, World!'))();
+```
 
 ## Features
 
@@ -45,38 +72,3 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
-
-## Documentation
-
-### Start
-
-- [Quick Start](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
-
-### Customization
-
-- [Configuration](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/configuration)
-- [Navigation](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/navigation)
-- [Layouts](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/layouts)
-- [Logo and Favicon](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/logo-and-favicon)
-- [Authors](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/authors)
-- [Internationalization](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/i18n)
-
-### Content
-
-- [Writing Posts](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/writing-posts)
-- [Additional styles](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/additional-styles)
-- [Extensions](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/extensions)
-- [Markdown Enhancements](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/markdown-enhancements)
-
-## Demo Pages
-
-| Name | Description |
-| --- | --- |
-| [Home](https://kitian616.github.io/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
-| [Layout Examples](https://kitian616.github.io/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
-
-## License
-
-TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
