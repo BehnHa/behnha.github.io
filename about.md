@@ -26,49 +26,41 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![Smart Solutions](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## About the Author
+As a data-driven researcher with over 5 years of experience, I specialize in leveraging advanced technologies to conduct comprehensive analyses, build predictive models, and support evidence-based research. My work spans multiple fields, from health data science to epidemiology and public health, where I use programming languages (Python, R, JavaScript) and cloud platforms like AWS and Google Colab to drive impactful research.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+### Core Competencies:
+#### • Big Data Analysis & Predictive Modeling: 
+Proficient in conducting large-scale data analysis using Python, R, and JavaScript. I utilize machine learning, neural networks, and data visualization tools such as Tableau, APIs, and interactive dashboards to provide actionable insights.
+#### • Supervised & Unsupervised Machine Learning Models:
+Designed and implemented ML & neural network models to predict adverse outcomes in older adults, supporting clinical and public health research.
 
-## Features
+### Research Life Cycle:
+#### • Health Canada Research Coordination:  
+Led Health Canada-funded projects, from proposal development to successful grant applications, and coordinated all phases of research.
+#### • Grant Writing & Ethics Approvals: 
+Experienced in drafting proposals for HC, CIHR, and other funding bodies, and obtaining ethical review board approvals (REB) from top institutions including Health Canada, Sinai Hospital, University of Toronto, and others.
+#### • Data Abstraction & Management: 
+Expert in clinical and administrative data abstraction from Canadian EMRs (e.g., Nightingale, TELUS PS Suite), ensuring high data quality and integrity.
+• Participant Recruitment & Informed Consent: Managed participant recruitment, consent processes, and patient data using tools such as REDCap, ensuring compliance with ethical standards.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+### Research Dissemination & Writing:
+#### • Manuscripts & Presentations: 
+Skilled in drafting and formatting academic manuscripts, project reports, and abstracts for both local and international conferences.
+#### • Journal Editorial Experience: 
+Assistant editor for two internationally indexed health journals, with 3+ years of experience.
+#### • Multimedia Production: 
+Produced academic podcasts and promotional content. Managed content creation, editing (Adobe Audition), and distribution via platforms like Apple Podcasts and Blubrry.
 
-## Skins
+### Technical Skills:
+#### • Programming & Data Analysis: 
+Python, R, JavaScript, SPSS, STATA, SQL, MongoDB, Visual Basic.
+#### • Data Visualization & Reporting: 
+Tableau, Dashboards, Amazon Web Services (AWS), Git/GitHub.
+#### • Data Management Tools: 
+REDCap, Qualtrics, Covidence.
+#### • Multimedia Tools: 
+Camtasia, Audition, Apple Podcasts.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
