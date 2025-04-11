@@ -1,31 +1,3 @@
----
-layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
----
-
 ## About the Author
 As a data-driven researcher with over 5 years of experience, I specialize in leveraging advanced technologies to conduct comprehensive analyses, build predictive models, and support evidence-based research. My work spans multiple fields, from health data science to epidemiology and public health, where I use programming languages (Python, R, JavaScript) and cloud platforms like AWS and Google Colab to drive impactful research.
 
