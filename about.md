@@ -1,5 +1,3 @@
-# [Smart Solutions](https://github.com/kitian616/jekyll-TeXt-theme)
-
 
 ![Smart Solutions](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
