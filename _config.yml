@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Smart Solutions # Chirpy # the main title
 
-tagline: AI-Optimizing Health Outcomes # AI-Optimized Health Outcomes  # A text-focused Jekyll theme # it will display as the subtitle
+tagline: AI-Optimizing Predictive Health Outcomes # AI-Optimized Health Outcomes  # A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
