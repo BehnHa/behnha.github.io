@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Smart Solutions # the main title
 
-tagline: Optimizing Predictive Health Outcomes # it will display as the subtitle
+tagline: AI-Optimized Predictive Health Outcomes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
